@@ -1,0 +1,2302 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.header-title {
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 40px;
+    top: 20px;
+    
+    /* logo_title */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 110%;
+    /* or 35px */
+    
+   
+    align-items: center;
+    letter-spacing: 0.06em;
+    
+    /* color-primary */
+    
+    color: #F1CDB3;
+    
+}
+
+.backgrouns-main{
+   
+    left: 0px;
+    top: 0px;
+    width: 1280px;
+    height: 908px;
+    
+}
+
+.header-span{
+    position: absolute;
+    width: 200px;
+    height: 15px;
+    left: 44px;
+    top: 105px;
+    
+    /* logo_subtitle */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    /* identical to box height */
+    
+   
+    align-items: center;
+    letter-spacing: 0.1em;
+    
+    /* color-light-xl */
+    
+    color: #ffffff;
+    
+}
+
+.about-link {
+    position: absolute;
+    width: 114px;
+    height: 24px;
+    left: 797px;
+    top: 76px;
+    text-decoration-color: #F1CDB3;
+    /* paragraph-l */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* identical to box height, or 24px */
+    
+    
+    /* color-light-s */
+    
+    color: #FAFAFA;
+    
+    
+    /* Inside auto layout */
+    
+   
+}
+
+.our-link {
+    position: absolute;
+    width: 58px;
+    height: 24px;
+    left: 946px;
+    top: 76px;
+    text-decoration: none;
+    
+    /* paragraph-l */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* identical to box height, or 24px */
+    
+    
+    /* color-dark-s */
+    
+    color: #CDCDCD;    
+}
+
+.help-link{
+    position: absolute;
+    width: 106px;
+    height: 24px;
+    left: 1039px;
+    top: 76px;
+    
+    /* paragraph-l */
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* identical to box height, or 24px */
+    
+    
+    /* color-dark-s */
+    
+    color: #CDCDCD;
+    
+    
+}
+
+.contact-ul{
+    position: absolute;
+    width: 60px;
+    height: 24px;
+    top: 76px;
+    left: 1180px;
+    text-decoration: none;
+    /* paragraph-l */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* identical to box height, or 24px */
+    text-decoration: none;
+    
+    /* color-dark-s */
+    
+    color: #CDCDCD;
+    
+    
+    /* Inside auto layout */
+    
+   
+}
+main{
+  width: 1280px;    
+  height: 908px;
+}
+.backgrouns.main {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    
+}
+
+.main-title {
+    position: absolute;
+    width: 310px;
+    height: 114px;
+    left: 40px;
+    top: 343px;
+    
+    /* h2 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 44px;
+    line-height: 130%;  
+    color: #ffffff;  
+}
+
+.main-subtitle {
+    position: absolute;
+    width: 460px;
+    height: 72px;
+    left: 40px;
+    top: 532px;
+    
+    /* paragraph-l */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* or 24px */
+    
+
+    
+    /* color-dark-s */
+    
+    color: #CDCDCD;    
+}
+
+.button-main {
+    position: absolute;
+    width: 207px;
+    height: 52px;
+    left: 40px;
+    top: 633px;
+    
+    /* color-primary */
+    color: black;
+    background: #F1CDB3;
+    border-radius: 100px;  
+    border: none;  
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.button-main:hover{
+    background: #FDDCC4;
+}
+
+.dog-main{
+    position: absolute;
+    width: 698px;
+    height: 728px;
+    left: 542px;  
+    top: 185px;
+}
+
+section{
+    position: absolute;
+    height: 588px;
+    width: 1280px;
+    top: 908px;
+    
+    /* color-light-xl */
+    
+    background: #FFFFFF;    
+}
+
+
+.section-title {
+    position: absolute;
+    width: 370px;
+    height: 90px;
+    left: 635px;
+    top: 94px;
+    
+    /* h3 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 130%;
+    /* or 45px */
+    
+
+    letter-spacing: 0.06em;
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+
+
+}
+
+
+.section-subtitle1{
+    position: absolute;
+    width: 430px;
+    height: 96px;
+    left: 635px;
+    top: 234px;
+    
+    /* paragraph-l */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* or 24px */
+    
+    
+    /* color-dark-xl */
+    
+    color: #4C4C4C;
+     
+}
+
+.section-subtitle2 {
+    position: absolute;
+    width: 430px;
+    height: 144px;
+    left: 635px;
+    top: 355px;
+    
+    /* paragraph-l */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* or 24px */
+    
+    
+    /* color-dark-xl */
+    
+    color: #4C4C4C;
+    
+}
+
+.section-dog {
+    position: absolute;
+    width: 1280px;
+    width: 300px;
+    height: 408px;
+    left: 215px;
+    top: 80px;
+    
+    background: url(about-pets.png);    
+}
+
+summary{
+    position: absolute;
+    height: 877px;
+    width: 1280px;
+    top: 1496px;
+    
+    /* color-light-l */
+    
+    background: #F6F6F6;    
+}
+
+.summary-title {
+    position: absolute;
+    width: 400px;
+    height: 90px;
+    left: 440px;
+    top: 80px;
+    
+    /* h3 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 130%;
+    /* or 45px */
+    
+    letter-spacing: 0.06em;
+    
+    /* color-dark-l */
+    
+    color: #545454;    
+}
+
+.card1-img {
+    position: absolute;
+    left: 145px;
+    top: 230px;
+    
+    
+}
+
+.kitty-card{
+    position: absolute;
+    width: 270px;
+    height: 167px;
+    background: #FAFAFA;
+    border-radius: 9px;
+    top: 500px;
+    left: 145px;
+}
+
+.kitty-title {
+    position: absolute;
+    width: 74px;
+    height: 23px;
+    left: 98px;
+    top: 30px;
+    
+    /* pets-card-title */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    
+   
+    letter-spacing: 0.06em;
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+}
+
+.kiity-button {
+  position: absolute;
+  border-radius: 20px;    
+  width: 160px;
+  height: 50px;
+  left: 53px;
+  top: 100px;
+  background: #FAFAFA;
+  border-color: #F1CDB3;
+  direction: none;
+ 
+  border-radius: 20px  ;
+  color: #292929;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.kiity-button:hover{
+    background: #FDDCC4;   
+}
+.card2-img {
+    position: absolute;
+    left: 505px;
+    top: 230px;
+    
+    
+}
+
+.dog-card{
+    position: absolute;
+    width: 270px;
+    height: 167px;
+    background: #FAFAFA;
+    border-radius: 9px;
+    top: 500px;
+    left: 505px;
+}
+
+.dog-title {
+    position: absolute;
+    width: 74px;
+    height: 23px;
+    left: 98px;
+    top: 30px;
+    
+    /* pets-card-title */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    
+   
+    letter-spacing: 0.06em;
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+}
+
+.dog-button {
+  position: absolute;
+  border-radius: 20px;    
+  width: 160px;
+  height: 50px;
+  left: 53px;
+  top: 100px;
+  background: #FAFAFA;
+  border-color: #F1CDB3;
+ 
+  border-radius: 20px  ;
+  color: #292929;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.dog-button:hover{
+    background: #FDDCC4;
+}
+
+.card3-img {
+    position: absolute;
+    left: 865px;
+    top: 230px;
+    
+    
+}
+
+.wody-card{
+    position: absolute;
+    width: 270px;
+    height: 167px;
+    background: #FAFAFA;
+    border-radius: 9px;
+    top: 500px;
+    left: 865px;
+}
+
+.wody-title {
+    position: absolute;
+    width: 74px;
+    height: 23px;
+    left: 98px;
+    top: 30px;
+    
+    /* pets-card-title */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+    
+   
+    letter-spacing: 0.06em;
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+}
+
+.wody-button {
+  position: absolute;
+  border-radius: 20px;    
+  width: 160px;
+  height: 50px;
+  left: 53px;
+  top: 100px;
+  background: #FAFAFA;
+  border-color: #F1CDB3;
+ 
+  border-radius: 20px  ;
+  color: #292929;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.wody-button:hover{
+    background: #FDDCC4;
+}
+
+.get-summary {
+    position: absolute;
+    width: 261px;
+    height: 52px;
+    left: 505px;
+    top: 725px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #292929;
+    
+    /* color-primary */
+    
+    background: #F1CDB3;
+    border-radius: 100px;
+    border: none;
+       
+}
+
+.get-summary:hover{
+    background: #FDDCC4;
+}
+
+var{
+    position: absolute;
+    width: 1280px;
+    height: 611px;
+    left: 0px;
+    top: 2373px;
+    
+    /* color-light-xl */
+    
+    background: #FFFFFF;    
+    background: url(help.png);
+}
+
+.help-title {
+    display: none;
+    position: absolute;
+    width: 310px;
+    height: 90px;
+    left: 446px;
+    top: 80px;
+    
+    /* h3 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 130%;
+    /* or 45px */
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.06em;
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+}
+
+.donate {
+    position: absolute;
+    width: 1280px;
+    height: 462px;
+    left: 0px;
+    top: 2984px;
+    
+    /* color-light-l */
+    
+    background: #F6F6F6;    
+}
+
+.donate-title {
+    position: absolute;
+    width: 300px;
+    height: 90px;
+    left: 718px;
+    top: 80px;
+    
+    /* h3 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 130%;
+    /* or 45px */
+    
+ 
+    letter-spacing: 0.06em;
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+}
+
+.donate-subtitle {
+    position: absolute;
+    width: 310px;
+    height: 17px;
+    left: 718px;
+    top: 210px;
+    
+    /* h5 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 110%;
+    /* identical to box height, or 17px */
+   
+    letter-spacing: 0.06em;
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+}
+
+.card-donate {
+    position: absolute;
+    width: 349px;
+    height: 43px;
+    left: 718px;
+    top: 247px;
+    
+    /* color-primary */
+    
+    background: #F1CDB3;
+    border-radius: 9px;
+    border: none;    
+}
+
+.card-svg {
+    position: absolute;
+    width: 30px;
+    height: 23px;
+    left: 15px;
+    top: 10px;
+    
+    /* color-dark-3xl */
+    
+   background: url(credit-card.svg); 
+}
+
+.card-donate-text {
+    position: absolute;
+    width: 334px;
+    height: 23px;
+    left: 60px;
+    top: -10px;
+    
+    /* h4 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    
+ 
+    letter-spacing: 0.06em;
+    
+    /* color-dark-l */
+    
+    color: #545454;
+        
+}
+
+.donate-dog {
+    position: absolute;
+    width: 505px;
+    height: 261px;
+    left: 91px;
+    top: 183px;
+    
+    background: url(donation-dog.png);
+}
+
+.donate-text {
+    position: absolute;
+    width: 380px;
+    height: 72px;
+    left: 718px;
+    top: 310px;
+    
+    /* donation-description */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    /* or 150% */
+    
+   
+    
+    /* color-dark-m */
+    
+    color: #B2B2B2;
+    
+}
+
+footer{
+    position: absolute;
+    width: 1280px;
+  
+    height: 350px;
+    left: 0px;
+    top: 3446px;
+    
+    /* footer-gradient-background */
+    
+    background: url(footer-gradient-background.png);    
+}
+
+.footer-title{
+    position: absolute;
+    width: 278px;
+    height: 90px;
+    left: 40px;
+    top: 56px;
+    
+    /* h3 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 130%;
+    /* or 45px */
+    
+   
+    
+    /* color-light-xl */
+    
+    color: #FFFFFF;    
+}
+
+.footer-subtitle {
+    position: absolute;
+    width: 270px;
+    height: 90px;
+    left: 479px;
+    top: 86px;
+    
+    /* h3 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 130%;
+    /* or 45px */
+    
+    
+    
+    /* color-light-xl */
+    
+    color: #FFFFFF;
+       
+}
+
+.img-mail{
+    position: absolute;
+    width: 40px;
+    height: 26px;
+    left: 40px;
+    top: 220px;    
+    background: url(mail.png);
+}
+
+.img-phone{
+    position: absolute;
+    width: 40px;
+    height: 32px;
+    left: 40px;
+    top: 290px;
+    background: url(phone.png);
+}
+
+.img-location1 {
+    position: absolute;
+    width: 22px;
+height: 32px;
+    left: 478px;
+    top: 220px;
+    background: url(pin.png);
+}
+
+.img-location2 {
+    position: absolute;
+    width: 22px;
+    height: 32px;
+    left: 478px;
+    top: 290px;    
+    background: url(pin.png);    
+}
+
+.mail-text{
+    position: absolute;
+    width: 191px;
+    height: 23px;
+    left: 100px;
+    top: 220px;
+    
+    /* h4 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    
+    letter-spacing: 0.06em;
+    
+    /* color-primary */
+    text-decoration: none;
+    color: #F1CDB3;
+    
+}
+
+
+.phone-text {
+    position: absolute;
+    width: 190px;
+    height: 23px;
+    left: 100px;
+    top: 290px;
+    
+    /* h4 */
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    
+    letter-spacing: 0.06em;
+    
+    /* color-primary */
+    
+    color: #F1CDB3;    
+}
+
+.location1-text {
+    position: absolute;
+    width: 260px;
+    height: 46px;
+    left: 520px;
+    top: 220px;
+    
+    /* h4 */
+    text-decoration: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* or 23px */
+    
+    letter-spacing: 0.06em;
+    
+    /* color-primary */
+    
+    color: #F1CDB3;
+    
+}
+
+.location2-text{
+    position: absolute;
+    width: 260px;
+    height: 23px;
+    left: 520px;
+    top: 290px;
+    
+    /* h4 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 115%;
+    /* identical to box height, or 23px */
+    
+    letter-spacing: 0.06em;
+    
+    /* color-primary */
+    
+    color: #F1CDB3;
+    text-decoration: none;
+}
+
+.our-header {
+    position: absolute;
+    width: 1280px;
+    height: 120px;
+    left: 0%;
+    right: 0%;
+    top: 0px;
+    
+    /* color-light-xl */
+    
+    background: #FFFFFF;    
+}
+
+.ourheader-title {
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 40px;
+    top: 5px;
+    
+    /* logo_title */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 110%;
+    /* or 35px */
+    
+    
+    align-items: center;
+    letter-spacing: 0.06em;
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+}
+
+.ourheader-span {
+    position: absolute;
+    width: 190px;
+    height: 15px;
+    left: 44px;
+    top: 80px;
+    
+    /* logo_subtitle */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
+    /* identical to box height */
+    
+   
+    align-items: center;
+    letter-spacing: 0.1em;
+    
+    /* color-dark-3xl */
+    
+    color: #292929;
+       
+}
+
+.ourabout-link {
+    position: absolute;
+    width: 114px;
+    height: 24px;
+    left: 797px;
+    top: 46px;
+    text-decoration: none;
+    /* paragraph-l */
+    
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* identical to box height, or 24px */
+    
+    
+    /* color-dark-l */
+    
+    color: #545454;    
+}
+
+.ourour-link {
+    position: absolute;
+    width: 58px;
+    height: 24px;
+    left: 946px;
+    top: 46px;
+    
+    /* paragraph-l */
+    text-decoration-color: #F1CDB3;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* identical to box height, or 24px */
+    
+    
+    /* color-dark-3xl */
+    
+    color: #292929;
+    
+    
+}
+
+.ourhelp-link{
+    position: absolute;
+    width: 106px;
+    height: 24px;
+    left: 1039px;
+    top: 46px;
+    
+    /* paragraph-l */
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* identical to box height, or 24px */
+    
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+
+}
+
+.ourcontact-ul{
+    position: absolute;
+    width: 60px;
+    height: 24px;
+    left: 1180px;
+    top: 46px;
+    text-decoration: none;
+    /* paragraph-l */
+    
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    /* identical to box height, or 24px */
+    
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+    
+}
+
+.main{
+    position: absolute;
+    width: 1280px;
+    height: 1342px;
+    left: 0%;
+    right: 0%;
+    top: 120px;
+    
+    /* color-light-l */
+    
+    background: #F6F6F6;
+}
+
+.footer{
+    position: absolute;
+    width: 1280px;
+    height: 350px;
+    left: 0%;
+    
+    top: 1462px;
+    
+    /* footer-gradient-background */
+    
+    background: url(footer-gradient-background.png);  
+}
+
+.main-title-our {
+    position: absolute;
+    width: 400px;
+    height: 90px;
+    left: 440px;
+    top: 90px;
+    
+    /* h3 */
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 130%;
+    /* or 45px */
+    
+    
+    
+    
+    /* color-dark-l */
+    
+    color: #545454;
+    
+}
+
+.our-card1-img{
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 40px;
+    top: 250px;
+  
+}
+
+.our-kitty-card {
+    position: absolute;
+    width: 270px;
+    height: 165px;
+    left: 40px;
+    top: 520px;
+    
+    /* color-light-s */
+    
+    background: #FAFAFA;
+    border-radius: 9px;
+}
+
+.our-card2-img {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 350px;
+    top: 250px;    
+}
+
+.our-dog-card {
+    position: absolute;
+    width: 270px;
+    height: 165px;
+    left: 350px;
+    top: 520px;
+    
+    /* color-light-s */
+    
+    background: #FAFAFA;
+    border-radius: 9px;   
+}
+
+.our-card3-img {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 660px;
+    top: 250px;       
+}
+
+.our-wody-card{
+    position: absolute;
+    width: 270px;
+    height: 165px;
+    left: 660px;
+    top: 520px;
+    
+    /* color-light-s */
+    
+    background: #FAFAFA;
+    border-radius: 9px;      
+}
+
+.our-card4-img {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 970px;
+    top: 250px;       
+}
+
+.our-Sophia-card{
+    position: absolute;
+    width: 270px;
+    height: 165px;
+    left: 970px;
+    top: 520px;
+    
+    /* color-light-s */
+    
+    background: #FAFAFA;
+    border-radius: 9px;         
+}
+
+.our-card5-img {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 40px;
+    top: 725px;
+    
+    /* color-light-s */
+    
+    background: #FAFAFA;
+    border-radius: 9px;    
+}
+
+.our-Timmy-card {
+    position: absolute;
+    width: 270px;
+    height: 165px;
+    left: 40px;
+    top: 995px;
+    
+    /* color-light-s */
+    
+    background: #FAFAFA;
+    border-radius: 9px;       
+}
+
+.our-card6-img {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 350px;
+    top: 725px;        
+}
+
+.our-Charly-card{
+    position: absolute;
+    width: 270px;
+    height: 165px;
+    left: 350px;
+    top: 995px;
+    
+    /* color-light-s */
+    
+    background: #FAFAFA;
+    border-radius: 9px;       
+}
+
+.our-card7-img{
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 660px;
+    top: 725px;     
+}
+
+.our-Scarlett-card{
+    position: absolute;
+    width: 270px;
+    height: 165px;
+    left: 660px;
+    top: 995px;
+    
+    /* color-light-s */
+    
+    background: #FAFAFA;
+    border-radius: 9px;       
+}
+
+.our-card8-img {
+    position: absolute;
+    width: 270px;
+    height: 270px;
+    left: 970px;
+    top: 725px;        
+}
+
+.our-Freddie-card{
+    position: absolute;
+    width: 270px;
+    height: 165px;
+    left: 970px;
+    top: 995px;
+    
+    /* color-light-s */
+    
+    background: #FAFAFA;
+    border-radius: 9px;       
+}
+
+@media (max-width: 768px) {
+    .header-title {
+        position: absolute;
+        width: 200px;
+        height: 35px;
+        left: 30px;
+        top: 30px;
+        
+        /* logo_title */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 32px;
+        line-height: 110%;
+        /* or 35px */
+        
+       
+        align-items: center;
+        letter-spacing: 0.06em;
+        
+        /* color-primary */
+        
+        color: #F1CDB3;
+        
+    }    
+
+    .backgrouns-main{
+   
+        left: 0px;
+        top: 0px;
+        width: 768px;
+        height: 1165px;
+        
+    }
+    
+    .header-span{
+        position: absolute;
+        width: 200px;
+        height: 15px;
+        left: 34px;
+        top: 105px;
+        
+        /* logo_subtitle */
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 15px;
+        /* identical to box height */
+        
+       
+        align-items: center;
+        letter-spacing: 0.1em;
+        
+        /* color-light-xl */
+        
+        color: #ffffff;
+        
+    }
+
+    .about-link {
+        position: absolute;
+        width: 114px;
+        height: 24px;
+        left: 295px;
+        top: 76px;
+        text-decoration-color: #F1CDB3;
+        /* paragraph-l */
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 160%;
+        /* identical to box height, or 24px */
+        
+        
+        /* color-light-s */
+        
+        color: #FAFAFA;
+        
+        
+        /* Inside auto layout */
+        
+       
+    }
+    
+    .our-link {
+        position: absolute;
+        width: 58px;
+        height: 24px;
+        left: 444px;
+        top: 76px;
+        text-decoration: none;
+        
+        /* paragraph-l */
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 160%;
+        /* identical to box height, or 24px */
+        
+        
+        /* color-dark-s */
+        
+        color: #CDCDCD;    
+    }
+    
+    .help-link{
+        position: absolute;
+        width: 106px;
+        height: 24px;
+        left: 537px;
+        top: 76px;
+        
+        /* paragraph-l */
+        text-decoration: none;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 160%;
+        /* identical to box height, or 24px */
+        
+        
+        /* color-dark-s */
+        
+        color: #CDCDCD;
+        
+        
+    }
+    
+    .contact-ul{
+        position: absolute;
+        width: 60px;
+        height: 24px;
+        top: 76px;
+        left: 678px;
+        text-decoration: none;
+        /* paragraph-l */
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 160%;
+        /* identical to box height, or 24px */
+        text-decoration: none;
+        
+        /* color-dark-s */
+        
+        color: #CDCDCD;
+        
+        
+        /* Inside auto layout */
+        
+       
+    }
+
+    main{
+       
+        width: 768px;    
+        height: 1165px;
+      }
+      .backgrouns.main {
+         
+          left: 0px;
+          top: 0px;
+          
+          
+      }
+      
+      .main-title {
+          position: absolute;
+          width: 310px;
+          height: 114px;
+          left: 154px;
+          top: 150px;
+          
+          /* h2 */
+          
+          font-family: Georgia, 'Times New Roman', Times, serif;
+          font-style: normal;
+          font-weight: 400;
+          font-size: 44px;
+          line-height: 130%;  
+          color: #ffffff;  
+      }
+      
+      .main-subtitle {
+        position: absolute;
+        width: 460px;
+        height: 72px;
+        left: 154px;
+        top: 326px;
+        
+        /* paragraph-l */
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 160%;
+        /* or 24px */
+        
+    
+        
+        /* color-dark-s */
+        
+        color: #CDCDCD;    
+    }
+    
+    .button-main {
+        position: absolute;
+        width: 207px;
+        height: 52px;
+        left: 280px;
+        top: 440px;
+        
+        /* color-primary */
+        color: black;
+        background: #F1CDB3;
+        border-radius: 100px;  
+        border: none;  
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    .button-main:hover{
+        background: #FDDCC4;
+    }
+    
+    .dog-main{
+        position: absolute;
+        width: 569px;
+        height: 569px;
+        left: 169px;  
+        top: 600px;
+    }
+
+    section{
+        position: absolute;
+        height: 1046px;
+        width: 768px;
+        top: 1165px;
+        
+        /* color-light-xl */
+        
+        background: #FFFFFF;    
+    }
+
+
+    summary{
+        position: absolute;
+        height: 877x;
+        width: 768px;
+        top: 2213px;
+        
+        /* color-light-l */
+        
+        background: #F6F6F6;    
+    }
+
+    .section-title {
+        position: absolute;
+        width: 370px;
+        height: 90px;
+        left: 169px;
+        top: 80px;
+        
+        /* h3 */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 130%;
+        /* or 45px */
+        
+    
+        letter-spacing: 0.06em;
+        
+        /* color-dark-l */
+        
+        color: #545454;
+        
+    
+    
+    }
+    
+    
+    .section-subtitle1{
+        position: absolute;
+        width: 430px;
+        height: 96px;
+        left: 169px;
+        top: 215px;
+        
+        /* paragraph-l */
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 160%;
+        /* or 24px */
+        
+        
+        /* color-dark-xl */
+        
+        color: #4C4C4C;
+         
+    }
+
+    .section-subtitle2 {
+        position: absolute;
+        width: 430px;
+        height: 144px;
+        left: 169px;
+        top: 336px;
+        
+        /* paragraph-l */
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 160%;
+        /* or 24px */
+        
+        
+        /* color-dark-xl */
+        
+        color: #4C4C4C;
+        
+    }
+    
+    .section-dog {
+        position: absolute;
+       
+        width: 300px;
+        height: 408px;
+        left: 234px;
+        top: 560px;
+        
+        background: url(about-pets.png);    
+    }
+
+    var{
+        position: absolute;
+        width: 768px;
+        height: 799px;
+        left: 0px;
+        top: 3090px;
+        
+        /* color-light-xl */
+        
+        background: #FFFFFF;    
+        background: url(Help\ \(1\).png);
+    }
+    
+    .summary-title {
+        position: absolute;
+        width: 400px;
+        height: 90px;
+        left: 184px;
+        top: 80px;
+        
+        /* h3 */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 130%;
+        /* or 45px */
+        
+        letter-spacing: 0.06em;
+        
+        /* color-dark-l */
+        
+        color: #545454;    
+    }
+
+    .card1-img {
+        position: absolute;
+        left: 94px;
+        top: 230px;
+        
+        
+    }
+    
+    .kitty-card{
+        position: absolute;
+        width: 270px;
+        height: 167px;
+        background: #FAFAFA;
+        border-radius: 9px;
+        top: 500px;
+        left: 94px;
+    }
+    
+    .kitty-title {
+        position: absolute;
+        width: 74px;
+        height: 23px;
+        left: 98px;
+        top: 30px;
+        
+        /* pets-card-title */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        /* identical to box height */
+        
+       
+        letter-spacing: 0.06em;
+        
+        /* color-dark-l */
+        
+        color: #545454;
+        
+    }
+    
+    .kiity-button {
+      position: absolute;
+      border-radius: 20px;    
+      width: 160px;
+      height: 50px;
+      left: 53px;
+      top: 100px;
+      background: #FAFAFA;
+      border-color: #F1CDB3;
+      direction: none;
+     
+      border-radius: 20px  ;
+      color: #292929;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+    
+    .kiity-button:hover{
+        background: #FDDCC4;   
+    }
+
+    .card2-img {
+        position: absolute;
+        left: 404px;
+        top: 230px;
+        
+        
+    }
+    
+    .dog-card{
+        position: absolute;
+        width: 270px;
+        height: 167px;
+        background: #FAFAFA;
+        border-radius: 9px;
+        top: 500px;
+        left: 404px;
+    }
+    
+    .dog-title {
+        position: absolute;
+        width: 74px;
+        height: 23px;
+        left: 98px;
+        top: 30px;
+        
+        /* pets-card-title */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        /* identical to box height */
+        
+       
+        letter-spacing: 0.06em;
+        
+        /* color-dark-l */
+        
+        color: #545454;
+        
+    }
+    
+    .dog-button {
+      position: absolute;
+      border-radius: 20px;    
+      width: 160px;
+      height: 50px;
+      left: 53px;
+      top: 100px;
+      background: #FAFAFA;
+      border-color: #F1CDB3;
+     
+      border-radius: 20px  ;
+      color: #292929;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+    
+    .dog-button:hover{
+        background: #FDDCC4;
+    }
+    
+    .card3-img {
+        display: none;
+        position: absolute;
+        left: 865px;
+        top: 230px;
+        
+        
+    }
+    
+    .wody-card{
+        display: none;
+        position: absolute;
+        width: 270px;
+        height: 167px;
+        background: #FAFAFA;
+        border-radius: 9px;
+        top: 500px;
+        left: 865px;
+    }
+    
+    .wody-title {
+        display: none;
+        position: absolute;
+        width: 74px;
+        height: 23px;
+        left: 98px;
+        top: 30px;
+        
+        /* pets-card-title */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 23px;
+        /* identical to box height */
+        
+       
+        letter-spacing: 0.06em;
+        
+        /* color-dark-l */
+        
+        color: #545454;
+        
+    }
+    
+    .wody-button {
+        display: none;
+      position: absolute;
+      border-radius: 20px;    
+      width: 160px;
+      height: 50px;
+      left: 53px;
+      top: 100px;
+      background: #FAFAFA;
+      border-color: #F1CDB3;
+     
+      border-radius: 20px  ;
+      color: #292929;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    }
+    
+    .wody-button:hover{
+        display: none;
+        background: #FDDCC4;
+    }
+
+    .get-summary {
+        position: absolute;
+        width: 260px;
+        height: 52px;
+        left: 254px;
+        top: 725px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        color: #292929;
+        
+        /* color-primary */
+        
+        background: #F1CDB3;
+        border-radius: 100px;
+        border: none;
+           
+    }
+    
+    .get-summary:hover{
+        background: #FDDCC4;
+    }
+
+    .donate{
+        position: absolute;
+        width: 768px;
+        height: 783px;
+        left: 0px;
+        top: 3869px;
+        
+        /* color-light-l */
+        
+        background: #F6F6F6;      
+    }
+
+    footer{
+        position: absolute;
+        width: 768px;
+      
+        height: 639px;
+        left: 0px;
+        top: 4610px;
+        
+        /* footer-gradient-background */
+        
+        background: url(footer-gradient-background\ \(1\).png);    
+    }
+
+
+    .donate-title {
+        position: absolute;
+        width: 300px;
+        height: 90px;
+        left: 194px;
+        top: 80px;
+        
+        /* h3 */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 130%;
+        /* or 45px */
+        
+     
+        letter-spacing: 0.06em;
+        
+        /* color-dark-l */
+        
+        color: #545454;
+        
+    }
+    
+    .donate-subtitle {
+        position: absolute;
+        width: 310px;
+        height: 17px;
+        left: 194px;
+        top: 210px;
+        
+        /* h5 */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 15px;
+        line-height: 110%;
+        /* identical to box height, or 17px */
+       
+        letter-spacing: 0.06em;
+        
+        /* color-dark-l */
+        
+        color: #545454;
+        
+    }
+
+    .card-donate {
+        position: absolute;
+        width: 349px;
+        height: 43px;
+        left: 194px;
+        top: 247px;
+        
+        /* color-primary */
+        
+        background: #F1CDB3;
+        border-radius: 9px;
+        border: none;    
+    }
+    
+    .card-svg {
+        position: absolute;
+        width: 30px;
+        height: 23px;
+        left: 15px;
+        top: 10px;
+        
+        /* color-dark-3xl */
+        
+       background: url(credit-card.svg); 
+    }
+    
+    .card-donate-text {
+        position: absolute;
+        width: 334px;
+        height: 23px;
+        left: 60px;
+        top: -10px;
+        
+        /* h4 */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 115%;
+        /* identical to box height, or 23px */
+        
+     
+        letter-spacing: 0.06em;
+        
+        /* color-dark-l */
+        
+        color: #545454;
+            
+    }
+    
+    .donate-dog {
+        position: absolute;
+        width: 505px;
+        height: 261px;
+        left: 131px;
+        top: 422px;
+        
+        background: url(donation-dog.png);
+    }
+    
+    .donate-text {
+        position: absolute;
+        width: 380px;
+        height: 72px;
+        left: 194px;
+        top: 310px;
+        
+        /* donation-description */
+        
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 18px;
+        /* or 150% */
+        
+       
+        
+        /* color-dark-m */
+        
+        color: #B2B2B2;
+        
+    }
+    
+
+    .footer-title{
+        position: absolute;
+        width: 278px;
+        height: 90px;
+        left: 64px;
+        top: 30px;
+        
+        /* h3 */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 130%;
+        /* or 45px */
+        
+       
+        
+        /* color-light-xl */
+        
+        color: #FFFFFF;    
+    }
+    
+    .footer-subtitle {
+        position: absolute;
+        width: 270px;
+        height: 90px;
+        left: 403px;
+        top: 60px;
+        
+        /* h3 */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 35px;
+        line-height: 130%;
+        /* or 45px */
+        
+        
+        
+        /* color-light-xl */
+        
+        color: #FFFFFF;
+           
+    }
+    
+    .img-mail{
+        position: absolute;
+        width: 40px;
+        height: 26px;
+        left: 40px;
+        top: 165px;    
+        background: url(mail.png);
+    }
+    
+    .img-phone{
+        position: absolute;
+        width: 40px;
+        height: 32px;
+        left: 40px;
+        top: 237px;
+        background: url(phone.png);
+    }
+    
+    .img-location1 {
+        position: absolute;
+        width: 22px;
+    height: 32px;
+        left: 402px;
+        top: 165px;
+        background: url(pin.png);
+    }
+    
+    .img-location2 {
+        position: absolute;
+        width: 22px;
+        height: 32px;
+        left: 402px;
+        top: 237px;    
+        background: url(pin.png);    
+    }
+    
+    .mail-text{
+        position: absolute;
+        width: 191px;
+        height: 23px;
+        left: 100px;
+        top: 165px;
+        
+        /* h4 */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 115%;
+        /* identical to box height, or 23px */
+        
+        letter-spacing: 0.06em;
+        
+        /* color-primary */
+        text-decoration: none;
+        color: #F1CDB3;
+        
+    }
+    
+    
+    .phone-text {
+        position: absolute;
+        width: 190px;
+        height: 23px;
+        left: 100px;
+        top: 237px;
+        
+        /* h4 */
+        text-decoration: none;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 115%;
+        /* identical to box height, or 23px */
+        
+        letter-spacing: 0.06em;
+        
+        /* color-primary */
+        
+        color: #F1CDB3;    
+    }
+    
+    .location1-text {
+        position: absolute;
+        width: 260px;
+        height: 46px;
+        left: 444px;
+        top: 153px;
+        
+        /* h4 */
+        text-decoration: none;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 115%;
+        /* or 23px */
+        
+        letter-spacing: 0.06em;
+        
+        /* color-primary */
+        
+        color: #F1CDB3;
+        
+    }
+    
+    .location2-text{
+        position: absolute;
+        width: 260px;
+        height: 23px;
+        left: 444px;
+        top: 237px;
+        
+        /* h4 */
+        
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 115%;
+        /* identical to box height, or 23px */
+        
+        letter-spacing: 0.06em;
+        
+        /* color-primary */
+        
+        color: #F1CDB3;
+        text-decoration: none;
+    }
+
+    .footer-puppy {
+        position: absolute;
+        width: 300px;
+        height: 310px;
+        left: 234px;
+        top: 329px;
+        
+        background: url(footer-puppy.png);    
+    }
+
+}
